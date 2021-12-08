@@ -1,4 +1,4 @@
-👤 Jaro Kaulmann
+👤 Jaro K.
 
 ❔ Student
 
