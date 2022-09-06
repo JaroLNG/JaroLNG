@@ -1,9 +1,9 @@
 👤 Jaro K.
 
-❔ Student
+🔰 Student
 
-☕ Java Developer
+⏫ Full-Stack-Developer
 
-🎮 Indie game dev
+🎮 Making games with Unity
 
 🇩🇪 German
